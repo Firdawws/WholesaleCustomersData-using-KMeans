@@ -31,7 +31,7 @@ The dataset contains **annual spending** data(in monetary units) of wholesale cu
 - **Delicatessen**: Annual spending on delicatessen items.  
 
 ---
-## 🔍 Project Workflow
+## 🔍 Project Workflow**
 ### **part 1.Data preprocessing and EDA**
 ✔️Load dataset and view the data.
 
@@ -63,7 +63,7 @@ The dataset contains **annual spending** data(in monetary units) of wholesale cu
 - Proposed personalized marketing strategies
 
 
-## ** Project_Structure**  
+## **Project_Structure**  
 ```bash
 📁 Wholesale-Customers-data-using--KMeans
 │── 📁 data                  # Dataset folder  
@@ -73,7 +73,7 @@ The dataset contains **annual spending** data(in monetary units) of wholesale cu
 ```
 
 
-### **🔹 Requirements**  
+### **Requirements**  
 you can run this project using any of the following options:
 ** option 1: Install Python libraries locally**
 ```bash
