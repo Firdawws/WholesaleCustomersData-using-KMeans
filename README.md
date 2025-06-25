@@ -18,7 +18,7 @@ This project applies KMeans clustering to segment customers in the Wholesale Cus
 ## **📊 The Dataset**  
 The dataset is sourced from the **UCI Machine Learning Repository**:  
 🔗 [Wholesale Customers Data](https://archive.ics.uci.edu/dataset/292/wholesale+customers)  
-The dataset contains **annual spending** daat(in monetary units) of wholesale customers
+The dataset contains **annual spending** data(in monetary units) of wholesale customers
 
 ### **🗂️ Features:**  
 - **Channel**: Type of customer (Hotel/Restaurant/Café or Retailer).  
@@ -33,11 +33,16 @@ The dataset contains **annual spending** daat(in monetary units) of wholesale cu
 ---
 ## 🔍 Project Workflow
 ### **part 1.Data preprocessing and EDA**
-✔️Load dataset and view the data. using pdf.head()
+✔️Load dataset and view the data.
+
 ✔️Handle missing values,duplicates (if any).  
+
 ✔️Visualize the data using histograms, scatter and boxplots plots.  
+
 ✔️Identify correlations between features using Heatmap
+
 ✔️Detect and treat outliers using boxplots.  
+
 ✔️Normalize the data for uniform scaling. 
 
 ### Part 2: Optimal Number of Clusters
