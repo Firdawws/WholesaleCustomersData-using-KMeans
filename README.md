@@ -1,6 +1,6 @@
 # **Wholesale-Customers-Data-Segmentation-Using K-Means**
 
-## **📑 Table of Contents**  
+## ** Table of Contents**  
 1. [Overview](Overview)  
 2. [Dataset](#The_Dataset)  
 3. [Project Workflow](#Project_Workflow)  
@@ -20,7 +20,7 @@ The dataset is sourced from the **UCI Machine Learning Repository**:
 🔗 [Wholesale Customers Data](https://archive.ics.uci.edu/dataset/292/wholesale+customers)  
 The dataset contains **annual spending** data(in monetary units) of wholesale customers
 
-### **🗂️ Features:**  
+### ** Features:**  
 - **Channel**: Type of customer (Hotel/Restaurant/Café or Retailer).  
 - **Region**: Geographic region of the customer.  
 - **Fresh**: Annual spending on fresh products.  
@@ -31,7 +31,7 @@ The dataset contains **annual spending** data(in monetary units) of wholesale cu
 - **Delicatessen**: Annual spending on delicatessen items.  
 
 ---
-## 🔍 Project Workflow**
+##  Project Workflow**
 ### **part 1.Data preprocessing and EDA**
 ✔️Load dataset and view the data.
 
@@ -84,7 +84,7 @@ Then run the project using your preferred code editor e.g pycharm,VS Code or ter
 
 ** Option 2: Use Jupyter Notebook via Anaconda**
 
-**💡 Steps:**
+** Steps:**
 - Download and install Anaconda.
 - Open Anaconda Navigator and launch Jupyter Notebook.
 - Open the .ipynb file and run the code cells.
